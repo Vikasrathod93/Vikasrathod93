@@ -2,7 +2,7 @@
 
 ### 💻 Java Developer | ECE Graduate | Aspiring Software Engineer
 
-I'm a passionate fresher interested in **Java Development, Web Development, DSA, SQL, and IoT**.
+I'm a passionate fresher interested in **Java Development, Web Development, DSA, SQL.
 
 I enjoy building projects, solving programming problems, and continuously improving my development skills.
 
